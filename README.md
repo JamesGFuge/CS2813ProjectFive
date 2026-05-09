@@ -2,14 +2,14 @@
 
 ## Run Instructions
 
-1. Open a terminal in `CS2813/Projects/Project5`.
+1. Open a terminal in `CS2813/Projects/Project5` or where ever the file is.
 2. Compile the program if needed:
 
 ```powershell
 cl.exe /EHsc /nologo Project5.cpp
 ```
 
-3. Run the compiled executable and provide `k` when prompted:
+3. Run the compiled executable:
 
 ```powershell
 .\Project5.exe
